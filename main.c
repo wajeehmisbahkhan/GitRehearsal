@@ -8,5 +8,5 @@ void main()
   printf("More commits");
   printf("More commits");
   printf("More commits");
-  printf('More commits');
+  printf("More commits");
 }
